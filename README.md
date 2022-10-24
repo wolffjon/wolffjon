@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wolffjon
+- 👋 Hi, I’m @wolffjon. Audio Engineer turned Software Engineer.
 - 👀 I’m interested in Macs 🖥️ and Guitars 🎸
 - 🌱 I’m currently learning ... how to use GitHub!
 - 💞️ I’m looking to collaborate on Jamf Solutions
